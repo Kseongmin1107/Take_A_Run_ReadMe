@@ -17,8 +17,6 @@
  10. Trouble Shooting
 
 
-**GitHub 저장소:** [바로가기](https://github.com/bABCDd/Take_a_Run)
-
 ----------
     
 
